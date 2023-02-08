@@ -1,0 +1,261 @@
++-----------------+-----------+----------------------------------+-------------+
+|       Word      | Frequency |               TAGS               | Final-Score |
++-----------------+-----------+----------------------------------+-------------+
+|      fluido     |     20    | ['H2', 'H3', 'H6', 'A', 'Title'] |     21.0    |
+|    salesforce   |     19    |    ['H2', 'H3', 'A', 'Title']    |     18.8    |
+|       blog      |     7     |           ['H2', 'A']            |     7.4     |
+|        us       |     7     |        ['H3', 'H4', 'A']         |     9.4     |
+|      sales      |     5     |           ['H3', 'A']            |     6.0     |
+|     customer    |     5     |           ['H3', 'A']            |     6.0     |
+|     insights    |     5     |           ['H3', 'A']            |     6.0     |
+|     training    |     4     |       ['H3', 'A', 'Title']       |     10.8    |
+|    solutions    |     4     |           ['H1', 'A']            |     7.8     |
+|     leading     |     4     |              ['H2']              |     5.8     |
+|    marketing    |     4     |        ['H1', 'H3', 'A']         |     11.8    |
+|      events     |     4     |           ['H3', 'A']            |     5.8     |
+|      global     |     3     |              ['A']               |     1.6     |
+|       work      |     3     |           ['H2', 'A']            |     6.6     |
+|    expertise    |     3     |           ['H3', 'A']            |     5.6     |
+|       get       |     3     |              ['A']               |     1.6     |
+|     services    |     3     |              ['A']               |     1.6     |
+|     journey     |     3     |           ['H3', 'A']            |     5.6     |
+|     contact     |     3     |           ['H3', 'A']            |     5.6     |
+|      nemko      |     3     |              ['A']               |     1.6     |
+|       data      |     3     |           ['H3', 'A']            |     5.6     |
+|      aalto      |     3     |           ['H3', 'A']            |     5.6     |
+|    university   |     3     |              ['A']               |     1.6     |
+|      fazer      |     3     |              ['A']               |     1.6     |
+|    community    |     3     |           ['H3', 'A']            |     5.6     |
+|    analytics    |     3     |              ['H3']              |     4.6     |
+|    consulting   |     2     |         ['H2', 'Title']          |     10.4    |
+|        fi       |     2     |              ['A']               |     1.4     |
+|        se       |     2     |              ['A']               |     1.4     |
+|        dk       |     2     |              ['A']               |     1.4     |
+|        de       |     2     |              ['A']               |     1.4     |
+|     service     |     2     |              ['A']               |     1.4     |
+|     courses     |     2     |              ['A']               |     1.4     |
+|       help      |     2     |              ['A']               |     1.4     |
+|      reach      |     2     |              ['A']               |     1.4     |
+|      follow     |     2     |              ['H4']              |     3.4     |
+|      report     |     2     |              ['A']               |     1.4     |
+|     digital     |     2     |        ['H1', 'H3', 'A']         |     11.4    |
+|      scale      |     2     |                []                |     0.4     |
+|      posti      |     2     |                []                |     0.4     |
+|       b2b       |     2     |              ['H1']              |     6.4     |
+|      funnel     |     2     |              ['H1']              |     6.4     |
+|     finland     |     2     |              ['H6']              |     2.4     |
+|     project     |     2     |              ['A']               |     1.4     |
+|      driven     |     2     |                []                |     0.4     |
+|     decision    |     2     |                []                |     0.4     |
+|      making     |     2     |                []                |     0.4     |
+|      gained     |     2     |              ['A']               |     1.4     |
+|   transforming  |     2     |           ['H3', 'A']            |     5.4     |
+|     creating    |     2     |           ['H3', 'A']            |     5.4     |
+|     myfazer     |     2     |           ['H3', 'A']            |     5.4     |
+|       true      |     2     |              ['A']               |     1.4     |
+|     moments     |     2     |              ['H2']              |     5.4     |
+|      learn      |     2     |              ['A']               |     1.4     |
+|     provide     |     2     |                []                |     0.4     |
+|      value      |     2     |                []                |     0.4     |
+|       news      |     2     |              ['H2']              |     5.4     |
+|  uncategorized  |     2     |              ['A']               |     1.4     |
+|       den       |     2     |           ['H3', 'A']            |     5.4     |
+|       crm       |     1     |            ['Title']             |     5.2     |
+|   development   |     1     |            ['Title']             |     5.2     |
+|   integration   |     1     |            ['Title']             |     5.2     |
+|      dutch      |     1     |              ['A']               |     1.2     |
+|     deliver     |     1     |              ['A']               |     1.2     |
+|     industry    |     1     |                []                |     0.2     |
+|     partners    |     1     |              ['A']               |     1.2     |
+|       meet      |     1     |              ['A']               |     1.2     |
+|   expectations  |     1     |              ['A']               |     1.2     |
+|     tomorrow    |     1     |                []                |     0.2     |
+|    trainings    |     1     |              ['A']               |     1.2     |
+|      ensure     |     1     |              ['A']               |     1.2     |
+|       best      |     1     |              ['A']               |     1.2     |
+|     instance    |     1     |                []                |     0.2     |
+|   professional  |     1     |              ['A']               |     1.2     |
+|      goals      |     1     |              ['A']               |     1.2     |
+|      faster     |     1     |              ['A']               |     1.2     |
+|      expert     |     1     |              ['A']               |     1.2     |
+|      advice     |     1     |              ['A']               |     1.2     |
+|    throughout   |     1     |              ['A']               |     1.2     |
+|      entire     |     1     |              ['A']               |     1.2     |
+|     careers     |     1     |              ['A']               |     1.2     |
+|        nl       |     1     |              ['A']               |     1.2     |
+|      wealth     |     1     |              ['H1']              |     6.2     |
+|    management   |     1     |              ['H1']              |     6.2     |
+|    technology   |     1     |              ['H1']              |     6.2     |
+|       gaps      |     1     |              ['H1']              |     6.2     |
+|    financial    |     1     |                []                |     0.2     |
+|     advisory    |     1     |                []                |     0.2     |
+|    providers    |     1     |                []                |     0.2     |
+|       say       |     1     |                []                |     0.2     |
+|       want      |     1     |                []                |     0.2     |
+|     innovate    |     1     |                []                |     0.2     |
+|      change     |     1     |                []                |     0.2     |
+|     planned     |     1     |                []                |     0.2     |
+|   enhancements  |     1     |                []                |     0.2     |
+|     research    |     1     |                []                |     0.2     |
+|     suggests    |     1     |                []                |     0.2     |
+|      worth      |     1     |                []                |     0.2     |
+|    investment   |     1     |                []                |     0.2     |
+|       much      |     1     |                []                |     0.2     |
+|      spent      |     1     |                []                |     0.2     |
+|      manual     |     1     |                []                |     0.2     |
+|      tasks      |     1     |                []                |     0.2     |
+|     freeing     |     1     |                []                |     0.2     |
+|     adviser     |     1     |                []                |     0.2     |
+|      could      |     1     |                []                |     0.2     |
+|      allow      |     1     |                []                |     0.2     |
+|     clients     |     1     |                []                |     0.2     |
+|       see       |     1     |              ['H1']              |     6.2     |
+|      future     |     1     |              ['H1']              |     6.2     |
+|     business    |     1     |              ['H1']              |     6.2     |
+|   consultancy   |     1     |                []                |     0.2     |
+|    combining    |     1     |                []                |     0.2     |
+|     agility     |     1     |                []                |     0.2     |
+|     startup     |     1     |                []                |     0.2     |
+|    enterprise   |     1     |                []                |     0.2     |
+|     discover    |     1     |              ['A']               |     1.2     |
+|     building    |     1     |              ['H1']              |     6.2     |
+|    effective    |     1     |              ['H1']              |     6.2     |
+|      built      |     1     |                []                |     0.2     |
+|     complete    |     1     |                []                |     0.2     |
+|     analysis    |     1     |                []                |     0.2     |
+|    reporting    |     1     |                []                |     0.2     |
+|    mechanism    |     1     |                []                |     0.2     |
+|    logistics    |     1     |                []                |     0.2     |
+|     provider    |     1     |                []                |     0.2     |
+|     received    |     1     |                []                |     0.2     |
+|      rating     |     1     |                []                |     0.2     |
+|      stars      |     1     |                []                |     0.2     |
+|     explore     |     1     |              ['H2']              |     5.2     |
+|      begin      |     1     |           ['H3', 'A']            |     5.2     |
+|    references   |     1     |              ['H3']              |     4.2     |
+|     upcoming    |     1     |           ['H3', 'A']            |     5.2     |
+|       open      |     1     |           ['H3', 'A']            |     5.2     |
+|    positions    |     1     |              ['H3']              |     4.2     |
+|       new       |     1     |           ['H3', 'A']            |     5.2     |
+|     adopting    |     1     |                []                |     0.2     |
+|     traction    |     1     |              ['A']               |     1.2     |
+|      teams      |     1     |              ['A']               |     1.2     |
+|    worldwide    |     1     |                []                |     0.2     |
+|    committed    |     1     |              ['A']               |     1.2     |
+|    providing    |     1     |              ['A']               |     1.2     |
+|       team      |     1     |              ['A']               |     1.2     |
+|      easier     |     1     |              ['A']               |     1.2     |
+|      access     |     1     |              ['A']               |     1.2     |
+|    delivering   |     1     |              ['A']               |     1.2     |
+|     academic    |     1     |           ['H3', 'A']            |     5.2     |
+|    splintered   |     1     |              ['A']               |     1.2     |
+|      legacy     |     1     |              ['A']               |     1.2     |
+|       made      |     1     |              ['A']               |     1.2     |
+|      switch     |     1     |              ['A']               |     1.2     |
+|      online     |     1     |              ['A']               |     1.2     |
+|     everyone    |     1     |              ['A']               |     1.2     |
+|      campus     |     1     |                []                |     0.2     |
+|      helped     |     1     |              ['A']               |     1.2     |
+|       make      |     1     |              ['A']               |     1.2     |
+|      direct     |     1     |                []                |     0.2     |
+|     consumer    |     1     |                []                |     0.2     |
+|     strategy    |     1     |              ['A']               |     1.2     |
+|       come      |     1     |              ['A']               |     1.2     |
+|     results     |     1     |              ['A']               |     1.2     |
+|       seen      |     1     |              ['A']               |     1.2     |
+|     members     |     1     |              ['A']               |     1.2     |
+|     numbers     |     1     |                []                |     0.2     |
+|       tune      |     1     |              ['H2']              |     5.2     |
+|     podcast     |     1     |                []                |     0.2     |
+|    backstage    |     1     |                []                |     0.2     |
+|       pass      |     1     |                []                |     0.2     |
+|      things     |     1     |                []                |     0.2     |
+|      gives      |     1     |                []                |     0.2     |
+|    exclusive    |     1     |                []                |     0.2     |
+|     insight     |     1     |                []                |     0.2     |
+|      daily      |     1     |                []                |     0.2     |
+|      lives      |     1     |                []                |     0.2     |
+|    fluidians    |     1     |                []                |     0.2     |
+|     culture     |     1     |                []                |     0.2     |
+|       ways      |     1     |                []                |     0.2     |
+|     working     |     1     |                []                |     0.2     |
+|      listen     |     1     |              ['A']               |     1.2     |
+|      brief      |     1     |              ['H2']              |     5.2     |
+|     european    |     1     |              ['H2']              |     5.2     |
+|     partner     |     1     |              ['H2']              |     5.2     |
+|     experts     |     1     |                []                |     0.2     |
+|       csat      |     1     |                []                |     0.2     |
+|       last      |     1     |                []                |     0.2     |
+|      months     |     1     |                []                |     0.2     |
+|    completed    |     1     |                []                |     0.2     |
+|     projects    |     1     |                []                |     0.2     |
+|      ebook      |     1     |                []                |     0.2     |
+|     gaining     |     1     |              ['H3']              |     4.2     |
+|    actionable   |     1     |              ['H3']              |     4.2     |
+|      turned     |     1     |                []                |     0.2     |
+|     actions     |     1     |                []                |     0.2     |
+|       free      |     1     |                []                |     0.2     |
+|      guide      |     1     |                []                |     0.2     |
+|     started     |     1     |                []                |     0.2     |
+|     seeking     |     1     |                []                |     0.2     |
+|       grab      |     1     |              ['A']               |     1.2     |
+|       copy      |     1     |              ['A']               |     1.2     |
+|      latest     |     1     |              ['H2']              |     5.2     |
+|      posts      |     1     |              ['H2']              |     5.2     |
+|    improving    |     1     |           ['H3', 'A']            |     5.2     |
+|       flow      |     1     |           ['H3', 'A']            |     5.2     |
+|    selection    |     1     |           ['H3', 'A']            |     5.2     |
+|     options     |     1     |           ['H3', 'A']            |     5.2     |
+|      bedste     |     1     |           ['H3', 'A']            |     5.2     |
+| studieoplevelse |     1     |           ['H3', 'A']            |     5.2     |
+|      verden     |     1     |                []                |     0.2     |
+|   transformer   |     1     |           ['H3', 'A']            |     5.2     |
+|     reaktiv     |     1     |           ['H3', 'A']            |     5.2     |
+|   studiestøtte  |     1     |           ['H3', 'A']            |     5.2     |
+|       til       |     1     |           ['H3', 'A']            |     5.2     |
+|     proaktiv    |     1     |           ['H3', 'A']            |     5.2     |
+|   studiesucces  |     1     |           ['H3', 'A']            |     5.2     |
+|      gennem     |     1     |           ['H3', 'A']            |     5.2     |
+|      fokus      |     1     |           ['H3', 'A']            |     5.2     |
+|        på       |     1     |           ['H3', 'A']            |     5.2     |
+|     enkelte     |     1     |           ['H3', 'A']            |     5.2     |
+|        få       |     1     |           ['H3', 'A']            |     5.2     |
+|     indsigt     |     1     |           ['H3', 'A']            |     5.2     |
+|       med       |     1     |           ['H3', 'A']            |     5.2     |
+|       dine      |     1     |           ['H3', 'A']            |     5.2     |
+|      weeks      |     1     |              ['A']               |     1.2     |
+|   predictions   |     1     |           ['H3', 'A']            |     5.2     |
+|    automation   |     1     |           ['H3', 'A']            |     5.2     |
+|      trends     |     1     |           ['H3', 'A']            |     5.2     |
+|    subscribe    |     1     |              ['H2']              |     5.2     |
+|   newsletters   |     1     |                []                |     0.2     |
+|    important    |     1     |                []                |     0.2     |
+|     succeed     |     1     |                []                |     0.2     |
+|  relationships  |     1     |                []                |     0.2     |
+|   certificates  |     1     |              ['H4']              |     3.2     |
+|      espoo      |     1     |              ['A']               |     1.2     |
+|      turku      |     1     |              ['A']               |     1.2     |
+|      sweden     |     1     |              ['H6']              |     2.2     |
+|    stockholm    |     1     |              ['A']               |     1.2     |
+|    gothenburg   |     1     |              ['A']               |     1.2     |
+|      malmö      |     1     |              ['A']               |     1.2     |
+|      norway     |     1     |              ['H6']              |     2.2     |
+|       oslo      |     1     |              ['A']               |     1.2     |
+|     denmark     |     1     |              ['H6']              |     2.2     |
+|     hellerup    |     1     |              ['A']               |     1.2     |
+|     germany     |     1     |              ['H6']              |     2.2     |
+|      munich     |     1     |              ['A']               |     1.2     |
+|     slovakia    |     1     |              ['H6']              |     2.2     |
+|      banská     |     1     |              ['A']               |     1.2     |
+|     bystrica    |     1     |              ['A']               |     1.2     |
+|     benelux     |     1     |              ['H6']              |     2.2     |
+|     woerden     |     1     |              ['A']               |     1.2     |
+|        uk       |     1     |                []                |     0.2     |
+|      london     |     1     |              ['A']               |     1.2     |
+|      dublin     |     1     |              ['A']               |     1.2     |
+|    copyright    |     1     |                []                |     0.2     |
+|      rights     |     1     |                []                |     0.2     |
+|     reserved    |     1     |                []                |     0.2     |
+|     privacy     |     1     |              ['A']               |     1.2     |
+|      policy     |     1     |                []                |     0.2     |
++-----------------+-----------+----------------------------------+-------------+
